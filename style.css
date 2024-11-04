@@ -1,0 +1,14 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+}
+
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+a {
+    border: solid 3px black;
+    padding: 5px;
+}
+
